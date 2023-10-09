@@ -1,5 +1,4 @@
-﻿// test my change
-// My second change
+﻿// My second change
 using System.Net.Mime;
 using Ardalis.ListStartupServices;
 using BlazorAdmin;
